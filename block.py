@@ -13,7 +13,7 @@ def get_credentials():
     else:
         # Default credentials
         email = "business.forestarmy@gmail.com"
-        api_token = "ffe5d4fa-9bdd-4cd7-9316-7fd1211cd540"
+        api_token = "ffe5d4fa-9bdd-4cd7-936-7fd1211cd540"
     
     return email, api_token
 
